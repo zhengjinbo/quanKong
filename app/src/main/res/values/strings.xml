@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QunKong</string>
+    <string name="accessibility_description">群控插件</string>
+    <string name="accessibility_detail_description">此插件必须时刻开始，否则部分功能将失效</string>
+</resources>
